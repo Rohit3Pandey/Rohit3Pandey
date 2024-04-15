@@ -25,13 +25,22 @@ Equipped with a strong foundation in the telecom industry and a keen interest in
 ## Projects
 <img align="right" src="https://raw.githubusercontent.com/Rohit3Pandey/Images/main/github-projects.webp" width="300" height="300" />
 
-1. **AWS-based CI/CD Pipeline**
-   Designed and implemented an end-to-end CI/CD pipeline using AWS services, Jenkins, and Terraform to automate the deployment of a web application.
+1. **Highly Available Web Application Deployment on AWS**
+   Designed fault-tolerant web applications on AWS using Launch Templates, Auto Scaling, Application Load Balancer (ALB), and Amazon RDS MySQL, achieving 99.99% uptime and scalable architecture.
 
-2. **Containerized Application with Kubernetes**
+2. **S3 Object Mover**
+   Engineered a serverless AWS Lambda function to automate object migration between S3 buckets, enhancing data management efficiency and ensuring seamless transfer.
+
+3. **GitOps with Argo CD**
+   Spearheaded GitOps practices using Argo CD for continuous deployment and management of Flask-based monitoring applications in Kubernetes environments, improving deployment efficiency and reliability.
+
+4. **Jira Ticket Creator API**
+   Developed a Flask-based API endpoint for programmatically creating Jira tickets, streamlining project management workflows and enhancing team collaboration.
+
+5. **Containerized Application with Kubernetes**
    Developed a containerized application and deployed it on a Kubernetes cluster, leveraging tools like Docker and Argo CD for orchestration and continuous deployment.
 
-3. **Infrastructure as Code with Terraform**
+6. **Infrastructure as Code with Terraform**
    Created reusable Terraform configurations to provision and manage cloud resources, such as VPCs, EC2 instances, and databases, in a scalable and reproducible manner.
 
 ## Contact
