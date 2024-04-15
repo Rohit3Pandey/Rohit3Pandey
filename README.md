@@ -23,6 +23,8 @@ Equipped with a strong foundation in the telecom industry and a keen interest in
 </p>
 
 ## Projects
+<img align="right" src="https://raw.githubusercontent.com/Rohit3Pandey/Images/main/github-projects.webp" width="300" height="300" />
+
 1. **AWS-based CI/CD Pipeline**
    Designed and implemented an end-to-end CI/CD pipeline using AWS services, Jenkins, and Terraform to automate the deployment of a web application.
 
